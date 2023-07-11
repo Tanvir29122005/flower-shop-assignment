@@ -1,0 +1,27 @@
+* {
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.header-content {
+    background-color: brown;
+}
+
+.header-title {
+    color: #272727;
+}
+
+.btn {
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    color: #FFFFFF;
+}
